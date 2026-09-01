@@ -25,6 +25,14 @@
 
             #endregion
 
+            #region Question03
+
+            /*
+             * 3) What are multiple type parameters? Write Pair<TKey, TValue>.
+             * **/
+
+            #endregion
+
         }
     }
 }
