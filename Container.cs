@@ -6,7 +6,7 @@
 
 //namespace ADVC_01
 //{
-//    class Container<T>
+//   internal class Container<T>
 //    {
 //        public T Value { get; set; }
 

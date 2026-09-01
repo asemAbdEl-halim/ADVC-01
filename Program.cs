@@ -75,6 +75,16 @@
 
             #endregion
 
+            #region Question07
+
+            /*
+             * 7) What is the 'struct' constraint? Write an example.
+             * => Answer <==
+             * => The struct constraint means that the generic type T must be a value type, such as int, double, bool, or a struct.
+            * **/
+
+            #endregion
+
         }
     }
 }

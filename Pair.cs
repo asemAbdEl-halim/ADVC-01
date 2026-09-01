@@ -6,7 +6,7 @@
 
 //namespace ADVC_01
 //{
-//    class Pair<TKey, TValue>
+//   internal class Pair<TKey, TValue>
 //    {
 //        public TKey Key;
 //        public TValue Value;

@@ -6,10 +6,13 @@
 
 //namespace ADVC_01
 //{
-//   internal interface IRepository<T>
+//    internal class Test<T> where T : struct
 //    {
-//        void Add(T item);
-//        T Get(int id);
-//        void Delete(int id);
+//        public T Value;
+
+//        public Test(T value)
+//        {
+//            Value = value;
+//        }
 //    }
 //}
