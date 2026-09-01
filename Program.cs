@@ -47,6 +47,22 @@
                    }
             * **/
 
+            #endregion
+
+            #region Question05
+
+            /*
+             * 5) Write a generic method FindMax<T> that finds maximum value
+             * => Answer <==
+             * static T FindMax<T>(T a, T b) where T : IComparable<T>
+              {
+                  if (a.CompareTo(b) > 0)
+                      return a;
+              
+                  return b;
+              }
+            * **/
+
 
             #endregion
 
