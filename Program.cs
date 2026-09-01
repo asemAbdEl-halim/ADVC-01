@@ -16,6 +16,15 @@
              * **/
 
             #endregion
+
+            #region Question02
+
+            /*
+             * 2) Write a generic class Container<T> with Add and Get methods.
+             * **/
+
+            #endregion
+
         }
     }
 }
