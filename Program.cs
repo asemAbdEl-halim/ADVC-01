@@ -124,6 +124,16 @@
             * **/
 
             #endregion
+
+            #region Question12
+
+            /*
+             * 12) How do you apply multiple constraints? Write an example.
+             * => Answer <==
+             * ==> Multiple constraints mean that we can apply more than one constraint to the same generic type T.
+            * **/
+
+            #endregion
         }
     }
 }
