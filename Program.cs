@@ -114,6 +114,16 @@
             * **/
 
             #endregion
+
+            #region Question11
+
+            /*
+             * 11) What is the base class constraint? Write an example.
+             * => Answer <==
+             * ==> The base class constraint means that the generic type T must inherit from a specific class.
+            * **/
+
+            #endregion
         }
     }
 }
