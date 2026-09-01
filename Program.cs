@@ -63,6 +63,15 @@
               }
             * **/
 
+            #endregion
+
+            #region Question06
+
+            /*
+             * 6) What is a generic interface? Write IRepository<T>.
+             * => Answer <==
+             * => A generic interface is an interface that can work with different data types using a type parameter like T.
+            * **/
 
             #endregion
 
