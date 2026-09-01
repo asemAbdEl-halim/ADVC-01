@@ -94,6 +94,16 @@
             * **/
 
             #endregion
+
+            #region Question09
+
+            /*
+             * 9) What is the 'new()' constraint? Write an example.
+             * => Answer <==
+             * ==> The new() constraint means that the generic type T must have a parameterless constructor.
+            * **/
+
+            #endregion
         }
     }
 }
