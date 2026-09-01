@@ -85,6 +85,15 @@
 
             #endregion
 
+            #region Question08
+
+            /*
+             * 8) What is the 'class' constraint? Write an example.
+             * => Answer <==
+             * ==> The class constraint means that the generic type T must be a reference type (class).
+            * **/
+
+            #endregion
         }
     }
 }
