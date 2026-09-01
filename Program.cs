@@ -33,6 +33,23 @@
 
             #endregion
 
+            #region Question04
+
+            /*
+             * 4) What is a generic method? Write Swap<T> method.
+             * ==> Answer <==
+             * ==> A generic method is a method that can operate on different data types without specifying the type when calling the method.
+             * static void Swap<T>(ref T a, ref T b)
+               {
+                       T temp = a;
+                       a = b;
+                       b = temp;
+                   }
+            * **/
+
+
+            #endregion
+
         }
     }
 }
