@@ -104,6 +104,16 @@
             * **/
 
             #endregion
+
+            #region Question10
+
+            /*
+             * 10) What is the interface constraint? Write an example.
+             * => Answer <==
+             * ==> The interface constraint means that the generic type T must implement a specific interface.
+            * **/
+
+            #endregion
         }
     }
 }
