@@ -168,6 +168,17 @@
 
             #endregion
 
+            #region Question16
+
+            /*
+             * 16) What is contravariance? Explain the 'in' keyword.
+             * => Answer <==
+             * ==> Contravariance allows a method to accept parameters of a less derived type than originally specified.
+             * The 'in' keyword is used to specify that a generic type parameter is contravariant.
+            * **/
+
+            #endregion
+
         }
     }
 }
