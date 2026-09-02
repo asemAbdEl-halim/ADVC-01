@@ -201,6 +201,16 @@
 
             #endregion
 
+            #region Question19
+
+            /*
+             * 19) How can you inherit from a generic class?
+             * => Answer <==
+             * ==> You can inherit from a generic class by specifying the type parameter when defining the derived class.
+            * **/
+
+            #endregion
+
         }
     }
 }
