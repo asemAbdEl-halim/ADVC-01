@@ -134,6 +134,20 @@
             * **/
 
             #endregion
+
+            #region Question13
+
+            /*
+             * 13) What does the 'default' keyword do in generics?
+             * => Answer <==
+             * ==> The default keyword returns the default value of a generic type T.
+             * static T GetDefault<T>()
+            {
+                return default(T);
+            }
+            * **/
+
+            #endregion
         }
     }
 }
