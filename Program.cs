@@ -156,6 +156,18 @@
             * **/
 
             #endregion
+
+            #region Question15
+
+            /*
+             * 15) What is covariance? Explain the out keyword?
+             * => Answer <==
+             * ==> Covariance allows a method to return a more derived type than originally specified. 
+             * The out keyword is used to specify that a generic type parameter is covariant.
+            * **/
+
+            #endregion
+
         }
     }
 }
