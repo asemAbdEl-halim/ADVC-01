@@ -211,6 +211,29 @@
 
             #endregion
 
+            #region Question20
+
+            /*
+             * 20) Complete Exercise - Create a generic Cache<TKey, TValue>with Add, Get, Remove, Contains, and expiration support.
+             * => Answer <==
+             * Cache<int, string> cache = new Cache<int, string>();
+
+              cache.Add(1, "Hello", TimeSpan.FromSeconds(10));
+              cache.Add(2, "World", TimeSpan.FromSeconds(5));
+              
+              Console.WriteLine(cache.Get(1));
+              
+              Console.WriteLine(cache.Contains(1));
+              
+              cache.Remove(1);
+              
+              Console.WriteLine(cache.Contains(1));
+              
+              Console.WriteLine(cache.Get(5));
+            * **/
+
+            #endregion
+
         }
     }
 }
