@@ -190,6 +190,17 @@
 
             #endregion
 
+            #region Question18
+
+            /*
+             * 18) How do static members work in generic types?
+             * => Answer <==
+             * ==> Static members in generic types are shared across all instances of the same closed constructed type.
+             * Each closed constructed type has its own copy of static members.
+            * **/
+
+            #endregion
+
         }
     }
 }
