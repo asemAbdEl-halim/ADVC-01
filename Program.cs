@@ -148,6 +148,14 @@
             * **/
 
             #endregion
+
+            #region Question14
+
+            /*
+             * 14) Write a SafeList<T> that returns default when the index is invalid.
+            * **/
+
+            #endregion
         }
     }
 }
