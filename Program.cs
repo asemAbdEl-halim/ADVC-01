@@ -179,6 +179,17 @@
 
             #endregion
 
+            #region Question17
+
+            /*
+             * 17) What is the difference between covariance and contravariance?
+             * => Answer <==
+             * ==> Covariance allows a method to return a more derived type than originally specified,
+             * while contravariance allows a method to accept parameters of a less derived type than originally specified.
+            * **/
+
+            #endregion
+
         }
     }
 }
