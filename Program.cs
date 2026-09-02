@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            #region Part OF Questions
             #region Question01
 
             /*
@@ -232,6 +233,21 @@
               Console.WriteLine(cache.Get(5));
             * **/
 
+            #endregion
+            #endregion
+
+            #region Part OF Search
+            //Covariance
+            /*
+             * Covariance allows a method to return a more derived type than originally specified. 
+             * The out keyword is used to specify that a generic type parameter is covariant.
+             * **/
+
+            //Contravariance
+            /*
+             * Contravariance allows a method to accept parameters of a less derived type than originally specified.
+             * The 'in' keyword is used to specify that a generic type parameter is contravariant.
+             * **/
             #endregion
 
         }
